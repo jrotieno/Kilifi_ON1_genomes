@@ -10,5 +10,5 @@ Then calculate
 
 *N<sub>d</sub>/L<sub>a</sub> X 100*
 
-to get the % difference which was then used in usearch v8.1.1861
+to get the % difference which was then used in usearch to find the number of clusters/variants
 
