@@ -7,3 +7,15 @@ Otieno JR, Kamau EM, Oketch JW, Ngoi JM, Gichuki AM, Binter Š, Otieno GP, Ngama
 Link to the paper: https://academic.oup.com/ve/article/4/2/vey027/5106641
 
 Same data can be found in dataverse: https://dataverse.harvard.edu/dataverse.xhtml?alias=vec
+
+# Summary of datasets
+1. Kilifi_genomes
+A set of 184 RSV-A genomes from Kilifi
+
+2. global_ON1_G_gene
+A set of 1,166 global RSV-A G-gene sequences
+
+3. global_ON1_WGS
+A set of 344 global RSV-A G-gene sequences
+
+
