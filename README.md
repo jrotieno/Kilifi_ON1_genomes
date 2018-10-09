@@ -6,7 +6,7 @@ Otieno JR, Kamau EM, Oketch JW, Ngoi JM, Gichuki AM, Binter Š, Otieno GP, Ngama
 
 Link to the paper: https://academic.oup.com/ve/article/4/2/vey027/5106641
 
-Same data can be found in dataverse: https://dataverse.harvard.edu/dataverse.xhtml?alias=vec
+Same data can be found in dataverse: https://doi.org/10.7910/DVN/0CJXMA
 
 # Summary of datasets
 1. Kilifi_genomes
